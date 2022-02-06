@@ -5,7 +5,7 @@
   * [Technologies Used](#technologies-used)
 
 ## Overview
-Created a good anime recommendation system based only on similiarity in anime by using a Cosine Similarity Model.  
+Created a good **Anime Recommendation System** based only on similiarity in anime by using a **Cosine Similarity Model**.  
 
 ## Technical Aspect
 Dataset Link: https://myanimelist.net/about.php?go=contact 
