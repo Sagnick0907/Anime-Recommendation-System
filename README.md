@@ -6,6 +6,7 @@
 
 ## Overview
 Created a good **Anime Recommendation System** based only on similiarity in anime by using a **Cosine Similarity Model**.  
+![10](https://user-images.githubusercontent.com/76872499/197106572-4119ebc9-a3f1-4c75-bedc-833306d059e5.jpg)
 
 ## Technical Aspect
 Dataset Link: https://myanimelist.net/about.php?go=contact 
